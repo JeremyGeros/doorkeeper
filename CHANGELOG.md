@@ -1,5 +1,6 @@
 # Changelog
 
+
 ## 2.0.1
 
 - [#525, #526, #527] Fix `ActiveRecord::NoDatabaseError` on gem load.
